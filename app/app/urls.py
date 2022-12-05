@@ -21,4 +21,3 @@ urlpatterns = [
 ]
 
 two = 2
-
